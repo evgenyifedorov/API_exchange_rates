@@ -1,0 +1,27 @@
+[
+  {
+    "currency": "USD",
+    "rate": 89.430373,
+    "timestamp": "2024-01-20 00:03:05"
+  },
+  {
+    "currency": "EUR",
+    "rate": 97.441528,
+    "timestamp": "2024-01-20 00:03:15"
+  },
+  {
+    "currency": "USD",
+    "rate": 89.430373,
+    "timestamp": "2024-01-20 00:14:34"
+  },
+  {
+    "currency": "EUR",
+    "rate": 97.436707,
+    "timestamp": "2024-01-20 00:14:50"
+  },
+  {
+    "currency": "EUR",
+    "rate": 97.43622,
+    "timestamp": "2024-01-20 00:15:32"
+  }
+]
